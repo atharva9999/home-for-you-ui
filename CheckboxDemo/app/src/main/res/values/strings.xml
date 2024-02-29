@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Home For You</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="gym">Gym</string>
+    <string name="hospital">Hospital</string>
+    <string name="school">School</string>
+    <string name="market">Supermarket</string>
+    <string name="park">Park</string>
+    <string name="map_key" translatable="false">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+</resources>
